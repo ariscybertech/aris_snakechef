@@ -1,0 +1,11 @@
+{
+  "stageNumber": 58,
+  "time": 170,
+  "recipes": [
+    "PETIT_GATEAU",
+    "CARROT_CAKE",
+    "CHOCOLATE_CAKE",
+    "FRUIT_CAKE"
+  ],
+  "holes": 15
+}

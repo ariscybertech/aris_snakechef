@@ -1,0 +1,11 @@
+{
+  "stageNumber": 54,
+  "time": 130,
+  "recipes": [
+    "TACO_MUSHROOM",
+    "TACO_CHICKEN",
+    "PIZZA",
+    "PASTA"
+  ],
+  "holes": 15
+}

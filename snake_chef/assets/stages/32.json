@@ -1,0 +1,11 @@
+{
+  "stageNumber": 32,
+  "time": 120,
+  "recipes": [
+    "PETIT_GATEAU",
+    "PETIT_GATEAU",
+    "FRUIT_SALAD",
+    "FRUIT_SALAD"
+  ],
+  "holes": 5
+}

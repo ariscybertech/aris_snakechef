@@ -1,0 +1,9 @@
+{
+  "recipe": "SUSHI_CUCUMBER",
+  "recipeName": "Cucumber Sushi",
+  "ingredients": [
+    "CUCUMBER",
+    "RICE",
+    "SEAWEED"
+  ]
+}
